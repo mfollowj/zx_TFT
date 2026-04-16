@@ -7,10 +7,12 @@ __pycache__/
 
 # 训练输出（每次运行都会变）
 runs/
-*.pt
 
 # 预训练权重（可重新下载）
-weights/
+weights/yolo26n.pt
+weights/yolo26s.pt
+weights/yolov8s.pt
+
 
 # 数据集图片（太大）
 datasets/images/
