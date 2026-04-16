@@ -6,7 +6,7 @@ __pycache__/
 .eggs/
 
 # 训练输出（每次运行都会变）
-runs/
+
 
 # 预训练权重（可重新下载）
 weights/yolo26n.pt
