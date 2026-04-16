@@ -1,0 +1,25 @@
+﻿# Python
+__pycache__/
+*.pyc
+*.pyo
+*.egg-info/
+.eggs/
+
+# 训练输出（每次运行都会变）
+runs/
+*.pt
+
+# 预训练权重（可重新下载）
+weights/
+
+# 数据集图片（太大）
+datasets/images/
+datasets/labels/*.cache
+
+# IDE
+.idea/
+.vscode/
+
+# 系统
+.DS_Store
+Thumbs.db

@@ -1,0 +1,13 @@
+path: D:\CODE\pyCharm\TFT_YOLOv11\datasets
+train: images/train
+val: images/val
+nc: 8
+names:
+- 灏忔硶
+- 娉㈡瘮
+- 宀╁疂
+- 绾冲皵
+- 灏忛奔
+- 椋炴満
+- 榫欓緹
+- 宸村痉
